@@ -1,7 +1,9 @@
 	For the group project we are proposing building a simple dumbbell cleaning system. For this project we plan on utilizing load sensors in order to make sure that the dumbbells are placed on the plate. This will also allow us to make sure that it is the correct weight. After making sure that the correct weights are in place, we will have the handles sprayed with a disinfectant controlled by the Arduino. Finally, 2 or more 3 pin PC fans will be turned on to dry the handles. 
 
-Andrew Haidet's job for this project is to get all the materials needed such as load sensors, pc fans, motors, and any others. Will also work on getting the pc fans to spin and building the setup.
+Andrew Haidet's job for this project is to get all the materials needed such as load sensors, pc fans, motors, and any others. Will also work on getting the servo motor to spray the cleaning solution and the layout for the placement of the fan and spray bottle
 
 John Loeffler will work on other coding necessary such as the load sensors and interpreting their readings into weight. Will help to design a method to spray the disinfectant using motors or other such equipment. 
+
+Max Armstrong will work on getting the PC Fan to work as well as help design the logic for activating it after the wight has been placed on the sensor.
 
 Any other additions to the plan such as LCD displays will be given to whomever wants to create them.
